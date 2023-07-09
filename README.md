@@ -5,7 +5,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+junior+developer)](https://git.io/typing-svg)
 
-23 y.o., Penza, Russia
+20 y.o., Penza, Russia
 
 - 🔭 I’m currently studing on [java backend bootcamp](https://www.faang.school/)
 - 🌱 Third-year student at PGTU
